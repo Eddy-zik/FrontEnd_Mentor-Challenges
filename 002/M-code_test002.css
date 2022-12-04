@@ -1,0 +1,72 @@
+body {
+  background-color: #fff;
+}
+body .img {
+  height: 100px;
+  width: 100px;
+}
+
+main {
+  border: solid 1px black;
+  box-shadow: 5px;
+  display: flex;
+  justify-content: center;
+  height: 500px;
+  width: 1000px;
+  margin-top: 90px;
+  margin-bottom: 100px;
+  margin-left: 180px;
+  margin-right: 250px;
+  border: none;
+  box-shadow: 1px 1px 1px 1px;
+}
+main .div-main {
+  margin: 50px 50px 50px 50px;
+  display: flex;
+  justify-content: center;
+}
+main .div-main .div-1 {
+  background-color: orange;
+  width: 250px;
+  padding: 10px;
+}
+main .div-main .div-1 .div-1-sub {
+  padding-top: 8px;
+  text-align: center;
+  height: 25px;
+  width: 100px;
+  border: solid 1px none;
+  color: orange;
+  background-color: white;
+  border-radius: 10px;
+}
+main .div-main .div-2 {
+  background-color: greenyellow;
+  width: 250px;
+  padding: 10px;
+}
+main .div-main .div-2 .div-2-sub {
+  padding-top: 8px;
+  text-align: center;
+  height: 25px;
+  width: 100px;
+  border: solid 1px none;
+  color: greenyellow;
+  background-color: white;
+  border-radius: 10px;
+}
+main .div-main .div-3 {
+  background-color: green;
+  width: 250px;
+  padding: 10px;
+}
+main .div-main .div-3 .div-3-sub {
+  padding-top: 8px;
+  text-align: center;
+  height: 25px;
+  width: 100px;
+  border: solid 1px none;
+  color: green;
+  background-color: white;
+  border-radius: 10px;
+}/*# sourceMappingURL=M-code_test002.css.map */
